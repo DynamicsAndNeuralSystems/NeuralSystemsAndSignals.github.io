@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Neural Systems and Signals Lab at The University of Sydney."
 sitemap: false
 permalink: /allnews.html
 ---
