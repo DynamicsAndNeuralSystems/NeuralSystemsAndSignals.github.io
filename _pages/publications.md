@@ -9,9 +9,11 @@ permalink: /publications/
 
 # Publications
 
+Here we list publications of staff and students working in the Neural Systems and Signals Group.
+
 ## Group highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+See BD Fulcher's [Google Scholar](https://scholar.google.com.au/citations?user=iQYJOW4AAAAJ) for his full publication list.
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}

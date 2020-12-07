@@ -9,7 +9,7 @@ permalink: /vacancies
 # Open positions
 
 We are always looking for new group members!
-We are dedicated to growing an open and inclusive lab environment in which all types of personalities and backgrounds are appreciated and feel welcome.
+We are dedicated to maintaining lab environment in which people with all types of personalities and backgrounds feel included and supported.
 
 ### Current open positions
 
