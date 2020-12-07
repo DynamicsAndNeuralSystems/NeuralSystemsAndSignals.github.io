@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Neural Systems and Signals Group - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Neural Systems and Signals Group -- Publications."
 sitemap: false
 permalink: /publications/
 ---
