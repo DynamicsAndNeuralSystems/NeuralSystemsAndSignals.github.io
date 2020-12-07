@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are always looking for new PhD students and Masters students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+We are always looking for new Honours, Masters, and PhD students to join the team! [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 <!-- Jump to [postdocs](#postdocs), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
@@ -130,8 +130,9 @@ permalink: /team/
 </div>
 {% endif %}
 
+## Alumni
 
-<!-- ## Alumni
+<!--
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
