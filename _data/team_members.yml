@@ -1,16 +1,16 @@
 - name: Oliver Cliff
   photo: OliverCliff.png
-  info: Postdoctoral Researcher
+  info: Postdoctoral Researcher (Multivariate Time-Series Analysis)
   email: oliver.cliff@sydney.edu.au
   number_educ: 1
   education1: Ph.D., The University of Sydney.
 
-- name: "This could be you !"
-  photo: bio-photo.jpg
-  info:
-  email: ben.fulcher@sydney.edu.au
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+# - name: "This could be you !"
+#   photo: bio-photo.jpg
+#   info:
+#   email: ben.fulcher@sydney.edu.au
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:
+#   education4:
