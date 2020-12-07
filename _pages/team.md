@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Neural Systems and Signals Group - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Neural Systems and Signals Group: Team members"
 sitemap: false
 permalink: /team/
 ---
