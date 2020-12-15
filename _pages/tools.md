@@ -15,9 +15,7 @@ You can find software packages for the tools we develop, and investigate code fo
 
 We have developed an interactive website, [_CompEngine_](http://www.comp-engine.org), that allows you to upload and explore connections between your time-series data and a library of thousands of diverse empirical and synthetic time series.
 
-__Have a play, it's fun!__
-
-<a href="http://www.comp-engine.org" class="btn btn-lg btn-default" role="button">Explore</a>
+<a href="http://www.comp-engine.org" class="btn btn-lg btn-default" role="button">Have a play!</a>
 
 ### Open software
 

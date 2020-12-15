@@ -47,7 +47,10 @@ We apply these tools to applications in neuroscience to gain a quantitative, phy
 
 We are located at The University of Sydney, which has a beautiful campus full of intelligent people and a vibrant interdisciplinary community that includes researchers in physics, maths, statistics, computer science, engineering, psychology, physiology, and biomedical science, all investigating the brain.
 
- [**We are always looking for passionate new Honours, Masters, and PhD students to join us!**]({{ site.url }}{{ site.baseurl }}/vacancies)
+**We are always looking for enthusiastic new students!**
+<a href="{{ site.url }}{{ site.baseurl }}/vacancies" class="btn btn-lg btn-default" role="button">Join us!</a>
+
+
 
 
 <!-- <figure class="fourth">
