@@ -17,3 +17,43 @@
     display: Network Neuroscience 4, 788 (2020)
   highlight: 1
   news2:
+
+- title: "A self-organizing, living library of time-series data"
+  image: CompEngine.png
+  description:
+  authors: B.D. Fulcher, C.H. Lubba, S.S. Sethi, N.S. Jones.
+  link:
+    url: https://doi.org/10.1038/s41597-020-0553-0
+    display: Scientific Data 7, 213 (2020)
+  highlight: 1
+  news2:
+
+- title: "Multimodal gradients across mouse cortex"
+  image: FulcherPNAS2019.png
+  description:
+  authors: B.D. Fulcher, J.D. Murray, V. Zerbi, X.-J. Wang.
+  link:
+    url: https://doi.org/10.1073/pnas.1814144116
+    display: PNAS 116, 4689 (2019)
+  highlight: 1
+  news2:
+
+- title: "_catch22_: CAnonical Time-series CHaracteristics"
+  image: LubbaCatch22.png
+  description:
+  authors: C.H. Lubba, S.S. Sethi, P. Knaute, S.R. Schultz, N.S. Jones, B.D. Fulcher.
+  link:
+    url: https://doi.org/10.1007/s10618-019-00647-x
+    display: Data Mining and Knowledge Discovery 33, 1821 (2019)
+  highlight: 0
+  news2:
+
+- title: "Structural connectome topology relates to regional BOLD signal dynamics in the mouse brain"
+  image: SethiChaos.png
+  description:
+  authors: S.S. Sethi, V. Zerbi, N. Wenderoth, A. Fornito, B.D. Fulcher.
+  link:
+    url: https://doi.org/10.1063/1.4979281
+    display: Chaos 27, 047405 (2017)
+  highlight: 0
+  news2:

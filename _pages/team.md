@@ -13,7 +13,7 @@ We are always looking for new Honours, Masters, and PhD students to join the tea
 
 <!-- Jump to [postdocs](#postdocs), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
-## Postdoctoral Researcher
+## Postdoctoral Researchers
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -166,7 +166,7 @@ We are always looking for new Honours, Masters, and PhD students to join the tea
 </div>
 {% endif %} -->
 
-### Visiting research students and Physics honours students
+### Honours and visiting students
 
 <div class="row">
 

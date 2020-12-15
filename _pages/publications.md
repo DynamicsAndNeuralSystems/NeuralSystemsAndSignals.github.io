@@ -13,7 +13,7 @@ Here we list publications of staff and students working in the Neural Systems an
 
 For a BD Fulcher's full publication list, see [Google Scholar](https://scholar.google.com.au/citations?user=iQYJOW4AAAAJ).
 
-## Group highlights
+## Group Highlights
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
