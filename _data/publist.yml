@@ -1,4 +1,4 @@
-- title: "Scaling of gene transcriptional gradients with brain size across mouse development"
+- title: Scaling of gene transcriptional gradients with brain size across mouse development.
   image: LauNeuroImage.png
   description:
   authors: H.Y. Gladys Lau, A. Fornito, B.D. Fulcher.
@@ -8,7 +8,7 @@
   highlight: 1
   news2:
 
-- title: "Timescales of spontaneous fMRI fluctuations relate to structural connectivity in the brain"
+- title: Timescales of spontaneous fMRI fluctuations relate to structural connectivity in the brain.
   image: FallonNetworkNeurosci.png
   description:
   authors: J. Fallon, P. Ward, L. Parkes, S. Oldham, A. Arnatkeviciute, A. Fornito, B.D. Fulcher.
@@ -18,7 +18,7 @@
   highlight: 1
   news2:
 
-- title: "A self-organizing, living library of time-series data"
+- title: A self-organizing, living library of time-series data.
   image: CompEngine.png
   description:
   authors: B.D. Fulcher, C.H. Lubba, S.S. Sethi, N.S. Jones.
@@ -28,7 +28,7 @@
   highlight: 1
   news2:
 
-- title: "Multimodal gradients across mouse cortex"
+- title: Multimodal gradients across mouse cortex.
   image: FulcherPNAS2019.png
   description:
   authors: B.D. Fulcher, J.D. Murray, V. Zerbi, X.-J. Wang.
@@ -38,7 +38,7 @@
   highlight: 1
   news2:
 
-- title: "_catch22_: CAnonical Time-series CHaracteristics"
+- title: _catch22_: CAnonical Time-series CHaracteristics.
   image: LubbaCatch22.png
   description:
   authors: C.H. Lubba, S.S. Sethi, P. Knaute, S.R. Schultz, N.S. Jones, B.D. Fulcher.
@@ -48,7 +48,7 @@
   highlight: 0
   news2:
 
-- title: "Structural connectome topology relates to regional BOLD signal dynamics in the mouse brain"
+- title: Structural connectome topology relates to regional BOLD signal dynamics in the mouse brain.
   image: SethiChaos.png
   description:
   authors: S.S. Sethi, V. Zerbi, N. Wenderoth, A. Fornito, B.D. Fulcher.
