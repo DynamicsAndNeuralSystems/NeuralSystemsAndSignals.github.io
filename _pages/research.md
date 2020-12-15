@@ -13,7 +13,8 @@ We apply these tools to applications in neuroscience to gain a quantitative, phy
 
 Research projects in our group are highly diverse, but can be divided into two key areas:
 
-## Neurophysics
+### Neurophysics
+
 The brain is the most complex physical system we know of and its intimidating complexity forms the physical basis for our thoughts and feelings.
 The brain's organization, and the mechanisms through which it allows us to make sense of the world around us, are ultimately physical mechanisms that have been selected for by evolution.
 From the spatial patterning of the brain’s structural properties, to the role of cortical waves in transmitting information, evolution has exploited a diverse physical processes to enable efficient learning.
@@ -28,7 +29,8 @@ __Our research in neurophysics finds and explains patterns in the brain using me
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"} -->
 
-## Complex Dynamical Systems
+### Complex Dynamical Systems
+
 The modern world is drowning in data.
 Statistical approaches can find patterns hidden in these data, but how can we understand how these patterns come to be?
 This requires a combination of skills in statistical analysis and physical modeling.

@@ -1,0 +1,27 @@
+---
+title: "Neural Systems and Signals Group - Tools"
+layout: textlay
+excerpt: "Neural Systems and Signals Group: Tools"
+sitemap: false
+permalink: /tools/
+---
+
+### Github
+
+Our group's Github page is [here](https://github.com/NeuralSystemsAndSignals).
+You can find software packages for the tools we develop, and investigate code for reproducing results in our published papers.
+
+### CompEngine
+
+We have developed an interactive website, [_CompEngine_](http://www.comp-engine.org), that allows you to upload and explore connections between your time-series data and a library of thousands of diverse empirical and synthetic time series.
+
+__Have a play, it's fun!__
+
+<a href="http://www.comp-engine.org" class="btn btn-lg btn-default" role="button">Explore</a>
+
+### Open software
+
+We also work with a range of software packages related to time-series analysis:
+
+* [_hctsa_](https://github.com/benfulcher/hctsa), allows you to apply thousands of time-series analysis methods to a time-series dataset in Matlab.
+* [_catch22_](https://github.com/chlubba/catch22) allows you to evaluate 22 time-series features, coded efficiently in C and wrapped for python and R.
