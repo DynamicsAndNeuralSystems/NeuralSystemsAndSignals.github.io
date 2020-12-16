@@ -1,14 +1,14 @@
 ---
-title: "Neural Systems and Signals Group - Home"
+title: "Dynamics and Neural Systems Group - Home"
 layout: homelay
-excerpt: "Neural Systems and Signals at The University of Sydney."
+excerpt: "Dynamics and Neural Systems Group at The University of Sydney."
 sitemap: false
 permalink: /
 ---
 
-We are an interdisciplinary research group in the [School of Physics](http://sydney.edu.au/science/physics/) at [The University of Sydney](http://sydney.edu.au/).
+The Dynamics and Neural Systems Group is an interdisciplinary research team in the [School of Physics](http://sydney.edu.au/science/physics/) at [The University of Sydney](http://sydney.edu.au/).
 
-Our quantitative research group is focused on understanding the properties of complex dynamical systems by using (and developing new) physical and statistical methods.
+We do quantitative research focused on understanding the properties of complex dynamical systems by applying (and developing new) physical and statistical methods.
 We apply these tools to applications in neuroscience to gain a quantitative, physically based understanding of how the brain works.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

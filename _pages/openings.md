@@ -1,5 +1,5 @@
 ---
-title: "Neural Systems and Signals - Join Us"
+title: "Dynamics and Neural Systems Group - Join Us"
 layout: textlay
 excerpt: "Join Us"
 sitemap: false
@@ -10,7 +10,7 @@ permalink: /vacancies
 
 We are always looking for new group members!
 
-The Neural Systems and Signals Group is dedicated to promoting a lab environment in which people with all types of personalities and backgrounds feel included and supported.
+The Dynamics and Neural Systems Group is dedicated to promoting a lab environment in which people with all types of personalities and backgrounds feel included and supported.
 
 ### Current open positions
 

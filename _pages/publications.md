@@ -1,7 +1,7 @@
 ---
-title: "Neural Systems and Signals Group - Publications"
+title: "Dynamics and Neural Systems Group - Publications"
 layout: gridlay
-excerpt: "Neural Systems and Signals Group -- Publications."
+excerpt: "Dynamics and Neural Systems Group -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-Here we list some key research publications from the Neural Systems and Signals Group.
+Here we list some key research publications from the Dynamics and Neural Systems Group.
 
 For a BD Fulcher's full publication list, see [Google Scholar](https://scholar.google.com.au/citations?user=iQYJOW4AAAAJ).
 

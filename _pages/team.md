@@ -1,7 +1,7 @@
 ---
-title: "Neural Systems and Signals Group - Team"
+title: "Dynamics and Neural Systems Group - Team"
 layout: gridlay
-excerpt: "Neural Systems and Signals Group: Team members"
+excerpt: "Dynamics and Neural Systems Group: Team members"
 sitemap: false
 permalink: /team/
 ---
