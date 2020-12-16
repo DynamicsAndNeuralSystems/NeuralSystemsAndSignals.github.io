@@ -23,3 +23,7 @@ We have also developed a range of software packages related to time-series analy
 
 * [_hctsa_](https://github.com/benfulcher/hctsa), allows you to apply thousands of time-series analysis methods to a time-series dataset in Matlab.
 * [_catch22_](https://github.com/chlubba/catch22) allows you to evaluate 22 time-series features, coded efficiently in C and wrapped for python and R.
+
+### Advice
+
+We keep an active website containing general research advice across a range of topics [here](https://benfulcher.github.io/ResearchResources/).
