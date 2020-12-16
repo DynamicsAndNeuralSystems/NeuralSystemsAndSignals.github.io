@@ -47,11 +47,12 @@ We apply these tools to applications in neuroscience to gain a quantitative, phy
 
 We are located at The University of Sydney, which has a beautiful campus full of intelligent people and a vibrant interdisciplinary community that includes researchers in physics, maths, statistics, computer science, engineering, psychology, physiology, and biomedical science, all investigating the brain.
 
+We are a part of [Complex Systems Physics](https://www.sydney.edu.au/science/our-research/research-areas/physics/complex-systems.html).
+Being an interdisciplinary group, we collaborate closely with experts in information theory, like [Joe Lizier](https://lizier.me/joseph/), brain imaging, like [Mac Shine](https://macshine.github.io/), and consciousness, like [Nao Tsuchiya](https://users.monash.edu.au/~naotsugt/Tsuchiya_Labs_Homepage/HOME.html).
+
 **We are always looking for enthusiastic new students!**
 
-<a href="{{ site.url }}{{ site.baseurl }}/vacancies" class="btn btn-lg btn-info" role="button">Join us!</a>
-
-
+<a href="{{ site.url }}{{ site.baseurl }}/join" class="btn btn-lg btn-info" role="button">Join us!</a>
 
 
 <!-- <figure class="fourth">

@@ -9,7 +9,7 @@ permalink: /team/
 # Group Members
 
 We are always looking for new Honours, Masters, and PhD students to join the team!
-[(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies)
+[(see openings)]({{ site.url }}{{ site.baseurl }}/join)
 
 If you're thinking about joining the group but are unsure of what the environment and culture is like, feel free to contact some of the current or past members to get a candid assessment!
 
