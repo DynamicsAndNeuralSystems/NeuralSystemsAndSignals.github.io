@@ -10,7 +10,14 @@
 
 - name: Brendan Harris
   photo: bio-photo.jpg
-  info: Honours student 2021
+  info: Honours Student, 2021
   email: bhar9988@uni.sydney.edu.au
+  number_educ: 0
+  education1:
+
+- name: Miru Park
+  photo: bio-photo.jpg
+  info: Masters Student, 2020/2021
+  email: mpar7306@uni.sydney.edu.au
   number_educ: 0
   education1:
