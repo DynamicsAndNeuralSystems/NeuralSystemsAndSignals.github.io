@@ -12,6 +12,8 @@ We are always looking for new group members!
 
 _The Dynamics and Neural Systems Group is dedicated to promoting a lab environment in which people with all types of personalities and backgrounds feel included and supported._
 
+If you're thinking about joining the group but are unsure of what the environment and culture is like, feel free to contact [some of the current or past members]({{ site.url }}{{ site.baseurl }}/team) to get a candid assessment!
+
 ## Current graduate research projects
 
 A sample of graduate research projects currently on offer are [here](http://agile-prod.ucc.usyd.edu.au/research/opportunities/opportunities?search_by=Fulcher&commit=Search).

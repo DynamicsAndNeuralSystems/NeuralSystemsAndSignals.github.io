@@ -10,8 +10,6 @@ permalink: /team/
 
 We are always looking for new Honours, Masters, and PhD students to [join the team]({{ site.url }}{{ site.baseurl }}/join)!
 
-If you're thinking about joining the group but are unsure of what the environment and culture is like, feel free to contact some of the current or past members to get a candid assessment!
-
 <!-- Jump to [postdocs](#postdocs), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
 {% assign number_printed = 0 %}
