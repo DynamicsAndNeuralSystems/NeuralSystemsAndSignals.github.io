@@ -1,13 +1,13 @@
 - name: Ben Fulcher
-  photo: OliverCliff.png
-  info: Postdoctoral Researcher (Multivariate Time-Series Analysis)
-  email: "oliver.cliff@sydney.edu.au"
+  photo: BenFulcher.png
+  info: Senior Lecturer (Nov 2017–)
+  email: "ben.fulcher@sydney.edu.au"
   number_educ: 0
-  education1: Ph.D., The University of Sydney.
+  education1: D.Phil., Oxford University.
 
 - name: Oliver Cliff
   photo: OliverCliff.png
-  info: Postdoctoral Researcher (Multivariate Time-Series Analysis)
+  info: Postdoctoral Researcher, Multivariate Time-Series Analysis (Feb 2020–)
   email: "oliver.cliff@sydney.edu.au"
   number_educ: 0
   education1: Ph.D., The University of Sydney.
