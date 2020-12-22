@@ -15,8 +15,6 @@ If you're thinking about joining the group but are unsure of what the environmen
 
 <!-- Jump to [postdocs](#postdocs), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
-## Postdoctoral Researchers
-
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -91,6 +89,7 @@ If you're thinking about joining the group but are unsure of what the environmen
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
