@@ -16,7 +16,7 @@ If you're thinking about joining the group but are unsure of what the environmen
 
 ## Current graduate research projects
 
-A sample of graduate research projects currently on offer are [here](http://agile-prod.ucc.usyd.edu.au/research/opportunities/opportunities?search_by=Fulcher&commit=Search).
+A sample of graduate research projects currently on offer are listed on The University of Sydney's [Research Supervisor Connect](https://www.sydney.edu.au/research/research-supervisor-connect.html): a list of current projects are listed in [my profile](https://www.sydney.edu.au/research/opportunities/supervisors/1936).
 This is not a complete or restrictive list, but is mainly to act as a guide of the types of projects that you could work on if you joined our group.
 
 __First, please read__: We have written some general advice about doing a PhD, including specific details about how to do a PhD at The University of Sydney are [here](https://benfulcher.github.io/ResearchResources/DoingAPhD/).
