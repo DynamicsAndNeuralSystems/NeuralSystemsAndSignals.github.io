@@ -73,8 +73,7 @@ We are always looking for new Honours, Masters, and PhD students to [join the te
 </div>
 {% endif %}
 
-
-## Honours and Masters Students
+## PhD, Masters, and Honours Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}

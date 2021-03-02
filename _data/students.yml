@@ -8,6 +8,13 @@
 #  education3:
 #  education4:
 
+- name: Trent Henderson
+  photo: bio-photo.jpg
+  info: PhD Student, 2021--2023
+  email: then6675@uni.sydney.edu.au
+  number_educ: 0
+  education1:
+
 - name: Brendan Harris
   photo: BrendanHarris.jpg
   info: Honours Student, 2021
