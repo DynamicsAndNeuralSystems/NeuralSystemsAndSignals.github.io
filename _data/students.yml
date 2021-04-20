@@ -10,8 +10,15 @@
 
 - name: Trent Henderson
   photo: TrentHenderson.jpg
-  info: PhD Student, 2021--2023
+  info: PhD Student, 2021--
   email: then6675@uni.sydney.edu.au
+  number_educ: 0
+  education1:
+
+- name: Trent Henderson
+  photo: AnnieBryant.png
+  info: PhD Student, 2022--
+  email:
   number_educ: 0
   education1:
 
