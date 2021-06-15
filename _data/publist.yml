@@ -1,3 +1,13 @@
+- title: Overcoming false-positive gene-category enrichment in the analysis of spatially resolved transcriptomic brain atlas data.
+  image: FulcherFalsePositive.png
+  description:
+  authors: B.D. Fulcher, A. Arnatkeviciute, A. Fornito.
+  link:
+    url: https://doi.org/10.1038/s41467-021-22862-1
+    display: Nature Communications 12, 2669 (2021)
+  highlight: 1
+  news2:
+
 - title: Scaling of gene transcriptional gradients with brain size across mouse development.
   image: LauNeuroImage.png
   description:
