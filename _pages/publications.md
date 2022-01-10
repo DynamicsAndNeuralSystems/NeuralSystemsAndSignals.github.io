@@ -6,7 +6,6 @@ sitemap: false
 permalink: /publications/
 ---
 
-
 # Publications
 
 Here we list some key research publications from the Dynamics and Neural Systems Group.
