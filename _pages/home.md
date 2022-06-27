@@ -26,7 +26,7 @@ We apply these tools to applications in neuroscience to gain a quantitative, phy
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/MouseConnectogram.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/fly_eye_5_smaller.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/GroupPhoto.png" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/justBrain.png" alt="Slide 3" />
