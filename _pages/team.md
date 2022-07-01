@@ -130,8 +130,6 @@ We are always looking for new Honours, Masters, and PhD students to [join the te
 
 # Alumni
 
-<!--
-
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
@@ -161,7 +159,7 @@ We are always looking for new Honours, Masters, and PhD students to [join the te
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %} -->
+{% endif %}
 
 ### Honours and visiting students
 
