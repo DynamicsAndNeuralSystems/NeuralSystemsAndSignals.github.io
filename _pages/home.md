@@ -32,7 +32,7 @@ We apply these tools to applications in neuroscience to gain a quantitative, phy
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/justBrain.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ApEn_network.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/pyspi.png" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
