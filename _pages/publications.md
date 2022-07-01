@@ -1,14 +1,14 @@
 ---
-title: "Dynamics and Neural Systems Group - Publications"
+title: "Dynamics and Neural Systems Lab - Publications"
 layout: gridlay
-excerpt: "Dynamics and Neural Systems Group -- Publications."
+excerpt: "Dynamics and Neural Systems Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
 
 # Publications
 
-Here we list some key research publications from the Dynamics and Neural Systems Group.
+Here we list some key research publications from the Dynamics and Neural Systems Lab.
 
 For a BD Fulcher's full publication list, see [Google Scholar](https://scholar.google.com.au/citations?user=iQYJOW4AAAAJ).
 

@@ -1,7 +1,7 @@
 ---
-title: "Dynamics and Neural Systems Group -- Research"
+title: "Dynamics and Neural Systems Lab -- Research"
 layout: textlay
-excerpt: "Dynamics and Neural Systems Group -- Research"
+excerpt: "Dynamics and Neural Systems Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
