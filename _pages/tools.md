@@ -21,8 +21,10 @@ We have developed an interactive website, [_CompEngine_](http://www.comp-engine.
 
 We have also developed a range of software packages related to time-series analysis (with more on the way!):
 
-* [_hctsa_](https://github.com/benfulcher/hctsa), allows you to apply thousands of time-series analysis methods to a time-series dataset in Matlab.
-* [_catch22_](https://github.com/chlubba/catch22) allows you to evaluate 22 time-series features, coded efficiently in C and wrapped for python and R.
+- [_hctsa_ (Matlab)](https://github.com/benfulcher/hctsa), allows you to apply thousands of time-series analysis methods to a time-series dataset in Matlab.
+- [_catch22_ (C, Matlab, python, R, Julia)](https://github.com/DynamicsAndNeuralSystems/catch22) allows you to evaluate 22 time-series features, coded efficiently in C and wrapped for python and with native versions for [R](https://github.com/hendersontrent/Rcatch22) and [Julia](https://github.com/brendanjohnharris/Catch22.jl).
+- [_pyspi_ (python)](https://github.com/olivercliff/pyspi) is a comprehensive library for computing pairwise interactions from multivariate time series.
+- [_theft_ (R)](https://github.com/hendersontrent/theft) implements the extraction, analysis, and visualisation of a range of open time-series features.
 
 ### Advice
 
