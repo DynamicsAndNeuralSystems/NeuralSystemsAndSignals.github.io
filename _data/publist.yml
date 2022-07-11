@@ -1,3 +1,13 @@
+- title: Extracting dynamical understanding from neural-mass models of mouse cortex.
+  image: SiuFrontiers.png
+  description:
+  authors: P.H. Siu, E. Müller, V. Zerbi, K. Aquino, B.D. Fulcher.
+  link:
+    url: https://doi.org/10.1038/s41467-021-22862-1
+    display: Frontiers in Computational Neuroscience 16, 847336 (2022).
+  highlight: 1
+  news2:
+
 - title: Overcoming false-positive gene-category enrichment in the analysis of spatially resolved transcriptomic brain atlas data.
   image: FulcherFalsePositive.png
   description:

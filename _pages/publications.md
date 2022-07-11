@@ -10,7 +10,7 @@ permalink: /publications/
 
 Here we list some key research publications from the Dynamics and Neural Systems Lab.
 
-For a BD Fulcher's full publication list, see [Google Scholar](https://scholar.google.com.au/citations?user=iQYJOW4AAAAJ).
+For BD Fulcher's full publication list, see [Google Scholar](https://scholar.google.com.au/citations?user=iQYJOW4AAAAJ).
 
 ## Recent Highlights
 
@@ -53,7 +53,7 @@ For a BD Fulcher's full publication list, see [Google Scholar](https://scholar.g
 <p> &nbsp; </p>
 
 
-## More Papers from our Group
+## More from our lab
 
 {% for publi in site.data.publist %}
 
