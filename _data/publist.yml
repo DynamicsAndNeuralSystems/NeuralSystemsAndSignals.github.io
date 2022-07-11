@@ -1,9 +1,19 @@
+- title: Classifying \emph{Kepler} light curves for 12,000 A and F stars using supervised feature-based machine learning.
+  image: BarabaraKepler.png
+  description:
+  authors: N.H. Barbara, T.R. Bedding, B.D. Fulcher, S.J. Murphy, T. Van Reeth.
+  link:
+    url: https://doi.org/10.1093/mnras/stac1515
+    display: Monthly Notices of the Royal Astronomical Society 514, 2793 (2022).
+  highlight: 1
+  news2:
+
 - title: Extracting dynamical understanding from neural-mass models of mouse cortex.
   image: SiuFrontiers.png
   description:
   authors: P.H. Siu, E. Müller, V. Zerbi, K. Aquino, B.D. Fulcher.
   link:
-    url: https://doi.org/10.1038/s41467-021-22862-1
+    url: https://doi.org/10.3389/fncom.2022.847336
     display: Frontiers in Computational Neuroscience 16, 847336 (2022).
   highlight: 1
   news2:
