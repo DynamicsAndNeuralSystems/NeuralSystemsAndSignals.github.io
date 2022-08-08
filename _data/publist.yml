@@ -55,7 +55,7 @@
   link:
     url: https://doi.org/10.1162/netn_a_00151
     display: Network Neuroscience 4, 788 (2020).
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: A self-organizing, living library of time-series data.
@@ -75,7 +75,7 @@
   link:
     url: https://doi.org/10.1073/pnas.1814144116
     display: PNAS 116, 4689 (2019).
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "_catch22_: CAnonical Time-series CHaracteristics."
