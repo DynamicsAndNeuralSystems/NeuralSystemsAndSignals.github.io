@@ -1,3 +1,13 @@
+- title: Feature-Based Time-Series Analysis in R using the theft Package.
+  image: HendersonTheft.png
+  description:
+  authors: T. Henderson, B.D. Fulcher.
+  link:
+    url: https://arxiv.org/abs/2208.06146v3
+    display: arXiv (2022).
+  highlight: 1
+  news2:
+
 - title: Unifying Pairwise Interactions in Complex Dynamics.
   image: CliffPairwise.png
   description:

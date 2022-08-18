@@ -43,6 +43,13 @@
   number_educ: 0
   education1:
 
+- name: Zilu Cao
+  photo: ZiluCao.jpg
+  info: Visiting PhD.
+  email: zilu.cao@sydney.edu.au
+  number_educ: 0
+  education1:
+
 - name: Joshua Moore
   photo: JoshMoore.png
   info: Honours 2022–2023.
