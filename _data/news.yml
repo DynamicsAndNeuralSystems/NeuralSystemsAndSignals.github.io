@@ -1,8 +1,11 @@
 # - date: 18 March 2020
 #   headline: "LION made a nice <a href='https://www.youtube.com/watch?v=zQftiTqR86A'>video</a> about Koen and his research."
 
+- date: 20 December 2022
+  headline: "Kieran's been accepted into the PhD program. Welcome Kieran!"
+
 - date: 7 September 2022
-  headline: "Welcome to visiting PhD student, Zilu!"
+  headline: "Welcome to visiting PhD student, Zilu, from Northwestern Polytechnical University!"
 
 - date: 12 August 2022
   headline: "Congrats to Trent on his <a href='https://arxiv.org/abs/2208.06146v3'>new preprint</a>"
@@ -16,8 +19,8 @@
 - date: 30 March 2022
   headline: "Pok's paper on mouse neural-mass modeling is accepted <a href='https://www.frontiersin.org/articles/10.3389/fncom.2022.847336/abstract'>here</a>"
 
-- date: 10 January 2022
-  headline: "Pok's pre-print on mouse neural-mass modeling is out <a href='https://doi.org/10.1101/2021.12.22.473927'>here</a>"
+# - date: 10 January 2022
+#   headline: "Pok's pre-print on mouse neural-mass modeling is out <a href='https://doi.org/10.1101/2021.12.22.473927'>here</a>"
 
 - date: 17 December 2021
   headline: "After months in waiting, Annie has arrived in Sydney! Welcome!"
