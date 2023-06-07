@@ -16,10 +16,10 @@ If you're thinking about joining the group but are unsure of what the environmen
 
 ## Current graduate research projects
 
-A sample of graduate research projects currently on offer are listed on The University of Sydney's [Research Supervisor Connect](https://www.sydney.edu.au/research/research-supervisor-connect.html): a list of current projects are listed in [my profile](https://www.sydney.edu.au/research/opportunities/supervisors/1936).
+A sample of graduate research projects currently on offer are listed on The University of Sydney's [Research Supervisor Connect](https://www.sydney.edu.au/research/research-supervisor-connect.html): a list of current projects are listed in [my profile](https://www.sydney.edu.au/science/about/our-people/academic-staff/ben-fulcher.html#collapseOpportunities).
 This is not a complete or restrictive list, but is mainly to act as a guide of the types of projects that you could work on if you joined our group.
 
-Note that we currently have one [PhD stipend scholarship](https://www.sydney.edu.au/scholarships/d/nanoscale-brain-navigation-with-dna-computing.html) for domestic (Australian) students interested in the project [Algorithmic principles of navigating the brain using nanorobots](https://www.sydney.edu.au/research/opportunities/2912.html).
+<!-- Note that we currently have one [PhD stipend scholarship](https://www.sydney.edu.au/scholarships/d/nanoscale-brain-navigation-with-dna-computing.html) for domestic (Australian) students interested in the project [Algorithmic principles of navigating the brain using nanorobots](https://www.sydney.edu.au/research/opportunities/2912.html). -->
 
 __First, please read__: We have written some general advice about doing a PhD, including specific details about how to do a PhD at The University of Sydney are [here](https://benfulcher.github.io/ResearchResources/DoingAPhD/).
 
