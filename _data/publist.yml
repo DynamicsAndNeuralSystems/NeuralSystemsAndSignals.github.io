@@ -1,3 +1,13 @@
+- title: Never a Dull Moment. Distributional Properties as a Baseline for Time-Series Classification.
+  image: Henderson_DullMoment.png
+  description:
+  authors: T. Henderson, A.G. Bryant, B.D. Fulcher.
+  link:
+    url: http://arxiv.org/abs/2303.17809
+    display: arXiv (2022).
+  highlight: 1
+  news2:
+
 - title: Feature-Based Time-Series Analysis in R using the theft Package.
   image: HendersonTheft.png
   description:
