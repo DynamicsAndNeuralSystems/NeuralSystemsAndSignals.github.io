@@ -31,6 +31,9 @@ We apply these tools to applications in neuroscience to gain a quantitative, phy
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/GroupPhoto_Malaysian.jpeg" alt="Slide 3" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/GroupPhoto_MalayAvoca.jpeg" alt="Slide 4" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -45,7 +48,8 @@ We apply these tools to applications in neuroscience to gain a quantitative, phy
 We are located at The University of Sydney, which has a beautiful campus full of intelligent people and a vibrant interdisciplinary community that includes researchers in physics, maths, statistics, computer science, engineering, psychology, physiology, and biomedical science, all investigating the brain.
 
 We are a part of [Complex Systems Physics](https://www.sydney.edu.au/science/our-research/research-areas/physics/complex-systems.html).
-Being an interdisciplinary group, we collaborate closely with experts in information theory, like [Joe Lizier](https://lizier.me/joseph/), brain imaging, like [Mac Shine](https://macshine.github.io/), nanoscale information processing, like [Shelley Wickham](https://www.sydney.edu.au/science/about/our-people/academic-staff/shelley-wickham.html), and consciousness, like [Nao Tsuchiya](https://users.monash.edu.au/~naotsugt/Tsuchiya_Labs_Homepage/HOME.html).
+Being an interdisciplinary group, we collaborate closely with diverse researchers, including information theory (like [Joe Lizier](https://lizier.me/joseph/)), systems neuroscience (like [Mac Shine](https://macshine.github.io/)), consciousness (like [Nao Tsuchiya](https://users.monash.edu.au/~naotsugt/Tsuchiya_Labs_Homepage/HOME.html)), and quantum mechanics (like [Sahand Mahmoodian](https://www.sydney.edu.au/science/about/our-people/academic-staff/sahand-mahmoodian.html)).
+<!-- nanoscale information processing, like [Shelley Wickham](https://www.sydney.edu.au/science/about/our-people/academic-staff/shelley-wickham.html), -->
 
 **We are always looking for enthusiastic new students!**
 
