@@ -1,12 +1,12 @@
 ---
-title: "Dynamics and Neural Systems Lab - Home"
+title: "Dynamics and Neural Systems Group - Home"
 layout: homelay
-excerpt: "Dynamics and Neural Systems Lab at The University of Sydney."
+excerpt: "Dynamics and Neural Systems Group at The University of Sydney."
 sitemap: false
 permalink: /
 ---
 
-The Dynamics and Neural Systems Lab is an interdisciplinary research team in the [School of Physics](http://sydney.edu.au/science/physics/) at [The University of Sydney](http://sydney.edu.au/) led by [Ben Fulcher](http://www.benfulcher.com).
+The Dynamics and Neural Systems Group is an interdisciplinary research team in the [School of Physics](http://sydney.edu.au/science/physics/) at [The University of Sydney](http://sydney.edu.au/) led by [Ben Fulcher](http://www.benfulcher.com).
 
 We do quantitative research focused on understanding the properties of complex dynamical systems by applying (and developing new) physical and statistical methods.
 We apply these tools to applications in neuroscience to gain a quantitative, physically based understanding of how the brain works.

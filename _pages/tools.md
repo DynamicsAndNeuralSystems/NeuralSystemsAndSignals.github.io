@@ -1,7 +1,7 @@
 ---
-title: "Dynamics and Neural Systems Lab - Tools"
+title: "Dynamics and Neural Systems Group - Tools"
 layout: textlay
-excerpt: "Dynamics and Neural Systems Lab: Tools"
+excerpt: "Dynamics and Neural Systems Group: Tools"
 sitemap: false
 permalink: /tools/
 ---

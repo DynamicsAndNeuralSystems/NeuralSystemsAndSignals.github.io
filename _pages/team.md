@@ -1,7 +1,7 @@
 ---
-title: "Dynamics and Neural Systems Lab - Team"
+title: "Dynamics and Neural Systems Group - Team"
 layout: gridlay
-excerpt: "Dynamics and Neural Systems Lab: Team members"
+excerpt: "Dynamics and Neural Systems Group: Team members"
 sitemap: false
 permalink: /team/
 ---

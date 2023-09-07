@@ -1,5 +1,5 @@
 ---
-title: "Dynamics and Neural Systems Lab - Join Us"
+title: "Dynamics and Neural Systems Group - Join Us"
 layout: textlay
 excerpt: "Join Us"
 sitemap: false
@@ -10,13 +10,13 @@ permalink: /join
 
 We are always looking for new group members!
 
-_The Dynamics and Neural Systems Lab is dedicated to promoting a lab environment in which people with all types of personalities and backgrounds feel included and supported._
+_The Dynamics and Neural Systems Group is dedicated to promoting a research environment in which people with all types of personalities and backgrounds feel included and supported._
 
 If you're thinking about joining the group but are unsure of what the environment and culture is like, feel free to contact [some of the current or past members]({{ site.url }}{{ site.baseurl }}/team) to get a candid assessment!
 
 ## Current graduate research projects
 
-A sample of graduate research projects currently on offer are listed on The University of Sydney's [Research Supervisor Connect](https://www.sydney.edu.au/research/research-supervisor-connect.html): a list of current projects are listed in [my profile](https://www.sydney.edu.au/science/about/our-people/academic-staff/ben-fulcher.html#collapseOpportunities).
+A sample of graduate research projects currently on offer are listed on the University of Sydney's [Research Supervisor Connect](https://www.sydney.edu.au/research/research-supervisor-connect.html): a list of current projects are listed in [my profile](https://www.sydney.edu.au/science/about/our-people/academic-staff/ben-fulcher.html#collapseOpportunities).
 This is not a complete or restrictive list, but is mainly to act as a guide of the types of projects that you could work on if you joined our group.
 
 <!-- Note that we currently have one [PhD stipend scholarship](https://www.sydney.edu.au/scholarships/d/nanoscale-brain-navigation-with-dna-computing.html) for domestic (Australian) students interested in the project [Algorithmic principles of navigating the brain using nanorobots](https://www.sydney.edu.au/research/opportunities/2912.html). -->

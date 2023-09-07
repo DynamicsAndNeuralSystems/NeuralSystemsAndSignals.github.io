@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Dynamics and Neural Systems Lab at The University of Sydney."
+excerpt: "Dynamics and Neural Systems Group at The University of Sydney."
 sitemap: false
 permalink: /allnews.html
 ---
