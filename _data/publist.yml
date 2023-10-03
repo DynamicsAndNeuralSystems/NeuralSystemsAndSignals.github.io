@@ -1,4 +1,24 @@
-- title: Never a Dull Moment. Distributional Properties as a Baseline for Time-Series Classification.
+- title: Unifying Pairwise Interactions in Complex Dynamics.
+  image: CliffPairwise.png
+  description:
+  authors: O.M. Cliff, A. Bryant, J.T. Lizier, N. Tsuchiya, B.D. Fulcher.
+  link:
+    url: https://www.nature.com/articles/s43588-023-00519-x
+    display: Nature Computational Science (2023).
+  highlight: 1
+  news2:
+
+- title: On the information-theoretic formulation of network participation.
+  image: Pavle_PRE.png
+  description:
+  authors: P. Cajic, D. Agius, O.M. Cliff, J.M. Shine, J.T. Lizier, B.D. Fulcher.
+  link:
+    url: https://arxiv.org/abs/2307.12556
+    display: arXiv (2023).
+  highlight: 1
+  news2:
+
+- title: Never a Dull Moment:: Distributional Properties as a Baseline for Time-Series Classification.
   image: Henderson_DullMoment.png
   description:
   authors: T. Henderson, A.G. Bryant, B.D. Fulcher.
@@ -14,16 +34,6 @@
   authors: T. Henderson, B.D. Fulcher.
   link:
     url: https://arxiv.org/abs/2208.06146v3
-    display: arXiv (2022).
-  highlight: 1
-  news2:
-
-- title: Unifying Pairwise Interactions in Complex Dynamics.
-  image: CliffPairwise.png
-  description:
-  authors: O.M. Cliff, J.T. Lizier, N. Tsuchiya, B.D. Fulcher.
-  link:
-    url: https://doi.org/10.48550/arXiv.2201.11941
     display: arXiv (2022).
   highlight: 1
   news2:
@@ -55,7 +65,7 @@
   link:
     url: https://doi.org/10.1038/s41467-021-22862-1
     display: Nature Communications 12, 2669 (2021).
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: Scaling of gene transcriptional gradients with brain size across mouse development.
@@ -85,7 +95,7 @@
   link:
     url: https://doi.org/10.1038/s41597-020-0553-0
     display: Scientific Data 7, 213 (2020).
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: Multimodal gradients across mouse cortex.
