@@ -27,7 +27,7 @@ This makes neurophysics a very exciting area to work in!
 
 __Our research in neurophysics finds and explains patterns in the brain using methods from statistics and physics, with the ultimate aim of understanding principles of brain organization and function in terms of physical mechanisms of information processing.__
 
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"} -->
+![]({{ site.url }}{{ site.baseurl }}/images/respic/FlyEye.png){: style="width: 300px; float: right; border: 10px"}
 
 ### Complex Dynamical Systems
 
