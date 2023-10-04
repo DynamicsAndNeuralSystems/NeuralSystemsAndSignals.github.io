@@ -76,7 +76,7 @@ We are always looking for new Honours, Masters, and PhD students to [join the te
 </div>
 {% endif %}
 
-## Current Students (PhD, Masters, and Honours)
+### Current Students (PhD, Masters, and Honours)
 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -90,6 +90,7 @@ We are always looking for new Honours, Masters, and PhD students to [join the te
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}</i><br>
   <a href = "mailto:{{ member.email }}">Email <i class="fa fa-envelope"></i></a>.
   {% if member.twitter %}<a href = "https://twitter.com/{{ member.twitter }}">Twitter <i class="fa-brands fa-x-twitter"></i></a>.{% endif %}
   {% if member.website %}<a href = "{{ member.website }}">Website <i class="fa-solid fa-globe"></i></a>.{% endif %}
