@@ -91,7 +91,10 @@ We are always looking for new Honours, Masters, and PhD students to [join the te
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  {{ member.info }}<br>Email: <{{ member.email }}>
+  <a href = "mailto:{{ member.email }}">Email</a>.
+  {% if member.twitter %}
+  <br><a href = "https://twitter.com/{{ member.twitter }}">Twitter</a>.
+  {% endif %}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
