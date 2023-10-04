@@ -27,7 +27,7 @@ We are always looking for new Honours, Masters, and PhD students to [join the te
   <i>{{ member.info }}</i><br>
   <a href = "mailto:{{ member.email }}">Email <i class="fa fa-envelope"></i></a>.
   {% if member.twitter %}<a href = "https://twitter.com/{{ member.twitter }}">Twitter <i class="fa-brands fa-x-twitter"></i></a>.{% endif %}
-  {% if member.website %}<a href = "https://twitter.com/{{ member.website }}">Website <i class="fa-solid fa-globe"></i></a>.{% endif %}
+  {% if member.website %}<a href = "{{ member.website }}">Website <i class="fa-solid fa-globe"></i></a>.{% endif %}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -92,7 +92,7 @@ We are always looking for new Honours, Masters, and PhD students to [join the te
   <h4>{{ member.name }}</h4>
   <a href = "mailto:{{ member.email }}">Email <i class="fa fa-envelope"></i></a>.
   {% if member.twitter %}<a href = "https://twitter.com/{{ member.twitter }}">Twitter <i class="fa-brands fa-x-twitter"></i></a>.{% endif %}
-  {% if member.website %}<a href = "https://twitter.com/{{ member.website }}">Website <i class="fa-solid fa-globe"></i></a>.{% endif %}
+  {% if member.website %}<a href = "{{ member.website }}">Website <i class="fa-solid fa-globe"></i></a>.{% endif %}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
