@@ -136,7 +136,7 @@ We are always looking for new Honours, Masters, and PhD students to [join the te
 
 # Alumni
 
-## Postdoctoral researchers
+### Postdoctoral researchers
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
