@@ -27,7 +27,7 @@ We are always looking for new Honours, Masters, and PhD students to [join the te
   <i>{{ member.info }}</i><br>
   <a href = "mailto:{{ member.email }}">Email</a>.
   {% if member.twitter %}
-  <br><a href = "https://twitter.com/{{ member.twitter }}">Twitter</a>.
+  <a href = "https://twitter.com/{{ member.twitter }}">Twitter</a>.
   {% endif %}
   <ul style="overflow: hidden">
 
@@ -93,7 +93,7 @@ We are always looking for new Honours, Masters, and PhD students to [join the te
   <h4>{{ member.name }}</h4>
   <a href = "mailto:{{ member.email }}">Email</a>.
   {% if member.twitter %}
-  <br><a href = "https://twitter.com/{{ member.twitter }}">Twitter</a>.
+  <a href = "https://twitter.com/{{ member.twitter }}">Twitter</a>.
   {% endif %}
   <ul style="overflow: hidden">
 
