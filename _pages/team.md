@@ -26,8 +26,8 @@ We are always looking for new Honours, Masters, and PhD students to [join the te
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i><br>
   <a href = "mailto:{{ member.email }}">Email</a>.
-  {% if has_field(member, "twitter") %}
-  <a href = "https://twitter.com/{{ member.twitter }}">Twitter</a>.
+  {% if member.twitter %}
+  <br><a href = "https://twitter.com/{{ member.twitter }}">Twitter</a>.
   {% endif %}
   <ul style="overflow: hidden">
 
@@ -77,7 +77,7 @@ We are always looking for new Honours, Masters, and PhD students to [join the te
 </div>
 {% endif %}
 
-## PhD, Masters, and Honours Students
+## Current Students (PhD, Masters, and Honours)
 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
