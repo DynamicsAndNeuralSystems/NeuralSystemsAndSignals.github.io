@@ -93,7 +93,7 @@ We are always looking for new Honours, Masters, and PhD students to [join the te
   <i>{{ member.info }}</i><br>
   {% if member.project_title %}<i>Project: </i>{{ member.project_title }}.<br>{% endif %}
   <a href = "mailto:{{ member.email }}">Email <i class="fa fa-envelope"></i></a>.
-  {% if member.twitter %}<a href = "https://twitter.com/{{ member.twitter }}">Twitter <i class="fa-brands fa-x-twitter"></i></a>.{% endif %} {% if member.website %}<a href = "{{ member.website }}">Website <i class="fa-solid fa-globe"></i></a>.{% endif %}
+  {% if member.twitter %}<a href = "https://twitter.com/{{ member.twitter }}">Twitter <i class="fa-brands fa-x-twitter"></i></a>.{% endif %} {% if member.github %}<a href = "https://github.com/{{ member.github }}">GitHub <i class="fa-brands fa-github"></i></a>.{% endif %}  {% if member.website %}<a href = "{{ member.website }}">Website <i class="fa-solid fa-globe"></i></a>.{% endif %}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
