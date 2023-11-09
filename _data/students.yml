@@ -19,8 +19,8 @@
 
 - name: Annie Bryant
   photo: AnnieBryant.png
-  project_title: "Elucidating Early Brain Activity Changes in Alzheimer's Disease with Complex Systems Analysis"
   info: PhD, 2022--
+  project_title: "Elucidating Early Brain Activity Changes in Alzheimer's Disease with Complex Systems Analysis"
   email: abry4213@uni.sydney.edu.au
   twitter: "@AnnieGBryant"
   website: https://anniegbryant.github.io/
@@ -67,7 +67,8 @@
 
 - name: Ambica Golyala
   photo: AmbicaGolyala.jpeg
-  info: PhD based at Adelaide University w/ Nigel Rogasch, 2022-.
+  info: PhD (Adelaide University w/ Nigel Rogasch), 2022-.
+  project_title: "Biophysical Modelling of EEG Activity associated with Working Memory and following Transcranial Magnetic Stimulation"
   email: ambica.golyala@adelaide.edu.au
   number_educ: 0
   education1:
