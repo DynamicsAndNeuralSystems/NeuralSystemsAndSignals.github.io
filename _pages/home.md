@@ -55,13 +55,13 @@ Being an interdisciplinary group, we collaborate closely with diverse researcher
 
 <a href="{{ site.url }}{{ site.baseurl }}/join" class="btn btn-lg btn-info" role="button">Join us!</a>
 
-**Our values**
+### Our values
 
 - We aim to foster and encourage authenticity of expression and an environment in which all types of people, personalities, backgrounds, and beliefs, feel supported.
 - We are committed to producing science that is high-quality, makes meaningful contributions, is open, and is clearly, transparently, and honestly communicated.
 - We believe that high-quality and creative science is possible when group members have the freedom to follow their interests, and can protect time free for fun, nourishing, and complementary life interests and pursuits.
 - We aim to train students in a way that helps them understand themselves and their motivations well and can align them with problems that excite and motivate them.
-- Our obligation to students is to guide them to become independent thinkers, and to provide them with the skills and opportunities to do so.
+- We aim to guide students to become independent thinkers, providing them with the skills and opportunities to do so.
 - To ensure that we are continue to perform in accodance with these values, and can improve them, we regularly reflect on our values and practices and seek (anonymous) feedback on them from all team members.
 
 
