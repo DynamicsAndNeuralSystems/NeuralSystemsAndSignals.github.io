@@ -7,12 +7,12 @@
   number_educ: 0
   education1: D.Phil., Oxford University.
 
-- name: Joshua Moore
-  photo: JoshMoore.png
-  info: Research Assistant, 2023–2024.
-  email: jmoo2880@uni.sydney.edu.au
-  number_educ: 0
-  education1:
+# - name: Joshua Moore
+#   photo: JoshMoore.png
+#   info: Research Assistant, 2023–2024.
+#   email: jmoo2880@uni.sydney.edu.au
+#   number_educ: 0
+#   education1:
 
 # - name: "This could be you !"
 #   photo: bio-photo.jpg

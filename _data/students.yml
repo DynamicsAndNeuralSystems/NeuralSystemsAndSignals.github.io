@@ -65,8 +65,16 @@
 - name: Teresa Dalle Nogare
   photo: TeresaDalleNogare.jpg
   info: PhD, 2024-.
-  project_title: "Identifying and Understanding Efficient Statistical Identifiers of Temporal Asymmetry in Brain Dynamics"
+  project_title: "Identifying and understanding efficient statistical identifiers of temporal asymmetry in brain dynamics"
   email: tdal0054@uni.sydney.edu.au
+  number_educ: 0
+  education1:
+
+- name: Joshua Moore
+  photo: JoshMoore.png
+  info: PhD, 2025–.
+  project_title: "Non-stationary analysis of sleep dynamics"
+  email: jmoo2880@uni.sydney.edu.au
   number_educ: 0
   education1:
 
