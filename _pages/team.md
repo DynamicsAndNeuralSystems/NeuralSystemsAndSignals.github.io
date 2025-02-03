@@ -173,7 +173,7 @@ We are always looking for new Honours, Masters, and PhD students to [join the te
 <div class="row">
 
 <div class="col-sm-6 clearfix">
-<h4>Honours students</h4>
+<h4>Students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
